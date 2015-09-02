@@ -1,0 +1,7 @@
+.col { 
+height:15px;
+width:15px;
+background-color:blue;
+display: inline-table;
+padding: 5px;
+}
